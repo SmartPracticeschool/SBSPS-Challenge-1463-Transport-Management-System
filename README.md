@@ -3,8 +3,11 @@
 
 **Social Distance Alert System** helps people to maintan social distancing at public transport, public places and companies workplace. It uses Bluetooth Low Energy(BLE) strength to alert people with notifications to prevent spread COVID-19.
 
-### Social Distance Alert System Images
+## Social Distance Alert System Images
 ![Image of Social Distance Alert System](https://github.com/satyamkr01/Social_Distance_Alert_System/blob/master/app_flow.png)
+
+## Download the Android app
+![Get it on your android phone](https://github.com/satyamkr01/Social_Distance_Alert_System/blob/master/android_apk_qr.png)
 
 ## Watch Demo Video : ~3m
 [![](https://github.com/satyamkr01/Social_Distance_Alert_System/blob/master/video_icon.png)](https://drive.google.com/file/d/1tUvM_r-km7vRkiXL-afNufcdf1vFDbSp/view?usp=sharing)
